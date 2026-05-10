@@ -1,0 +1,25 @@
+# Flutter
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# PyInstaller
+dist/
+__pycache__/
+*.spec
+*.pyc
+
+# Converter exe (binary, ne gre v repo)
+assets/
+converter.exe
+
+# Osebni podatki
+*.xml
+
+# IDE
+.idea/
+.vscode/
+*.iml
+analysis.txt
